@@ -1,0 +1,6 @@
+framework module Pods_02_Papago {
+  umbrella header "Pods-02_Papago-umbrella.h"
+
+  export *
+  module * { export * }
+}

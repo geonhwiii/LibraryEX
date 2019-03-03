@@ -1,0 +1,20 @@
+PODS:
+  - MaterialComponents/PageControl (78.0.1):
+    - MDFInternationalization
+  - MDFInternationalization (2.0.0)
+
+DEPENDENCIES:
+  - MaterialComponents/PageControl
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MaterialComponents
+    - MDFInternationalization
+
+SPEC CHECKSUMS:
+  MaterialComponents: 1e1d1a8356bbf2b80f6a0aa32018cda8ac8065a5
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+
+PODFILE CHECKSUM: 7f496ed4c8c1a41cb0cecdf7da587db39b733ff1
+
+COCOAPODS: 1.6.0

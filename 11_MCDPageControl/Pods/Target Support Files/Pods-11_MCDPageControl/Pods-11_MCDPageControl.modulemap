@@ -1,0 +1,6 @@
+framework module Pods_11_MCDPageControl {
+  umbrella header "Pods-11_MCDPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
